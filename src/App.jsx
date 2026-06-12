@@ -16,10 +16,10 @@ function App() {
         boxShadow: '0 20px 60px rgba(0,0,0,0.3)'
       }}>
         <h1 style={{ fontSize: '3rem', margin: '0 0 10px', color: '#333' }}>
-          👋 ¡Hola Mundo!
+          ¡CBTIS 75!
         </h1>
         <p style={{ fontSize: '1.2rem', color: '#666', margin: '0 0 30px' }}>
-          Desplegado automáticamente con GitHub Actions + Vercel
+          Pongame mi 7.6 porfavor!
         </p>
         <div style={{
           background: '#667eea',
@@ -29,7 +29,7 @@ function App() {
           display: 'inline-block',
           fontSize: '1rem'
         }}>
-          🚀 CI/CD Funcionando
+          CI/CD Funcionando
         </div>
       </div>
     </div>
